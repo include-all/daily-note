@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79d03fcd-5386-4e7d-8fe3-cd4d6dc0ba40" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YegdawMshxLPhBqMOkVsYPseSE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/code/fp-front-trunk/fpzx-web" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="D:\front-learn\react\react-hook\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="D:\front-learn\react\react-hook\node_modules\eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\front-learn\react\react-hook\src\redux\store\reducer" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79d03fcd-5386-4e7d-8fe3-cd4d6dc0ba40" name="Default Changelist" comment="" />
+      <created>1577168399792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577168399792</updated>
+      <workItem from="1577168401811" duration="156000" />
+      <workItem from="1577174618579" duration="659000" />
+      <workItem from="1577175375734" duration="122000" />
+      <workItem from="1577175558102" duration="749000" />
+      <workItem from="1577259157440" duration="1397000" />
+      <workItem from="1577433633640" duration="1200000" />
+      <workItem from="1577499105000" duration="634000" />
+      <workItem from="1579315786255" duration="1539000" />
+      <workItem from="1583308563522" duration="7908000" />
+      <workItem from="1583808316364" duration="14412000" />
+      <workItem from="1584347927287" duration="1335000" />
+      <workItem from="1584520627722" duration="32000" />
+      <workItem from="1585725439930" duration="4318000" />
+      <workItem from="1585738933145" duration="7729000" />
+      <workItem from="1585806783457" duration="13688000" />
+      <workItem from="1585896426852" duration="8017000" />
+      <workItem from="1586222927650" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="350" y="150" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585808638477">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="150" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585808638476" />
+    <state x="413" y="62" key="FileChooserDialogImpl" timestamp="1586222940026">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="62" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586222940026" />
+  </component>
+</project>
