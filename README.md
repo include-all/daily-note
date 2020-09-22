@@ -18,4 +18,12 @@
 9. [诺诺网面试题](https://github.com/include-all/front-end-learning/issues/9)
 
 
-**后续学习笔记已经全部在语雀记录**
+***
+内容记录：
+
+1. document放的是这些笔记的markdown文件
+2. interview放的是一些面试题的实现
+3. react-hook是一个create-react-app生成的项目，src下的hooks是学习hooks的一些demo；redux是自己从头开始写的一个redux的demo;js-interview是一些题目的实现，还有一个欧冠抽签的算法
+4. vue-webpack-demo是不借助vue-cli，从零开始手动配置webpack,vue-router,vuex的一个项目
+
+**后续前端学习笔记已经全部在语雀记录**
